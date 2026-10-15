@@ -16,7 +16,7 @@ Cooling: A heatsink, fan and vents to keep the device cool while gaming.
 Battery: An internal rechargeable battery, with the goal of keeping the device as thin as possible.
 Custom shell: Designed in Onshape, with ergonomic grips and space for all the internal components.
 RGB lighting: Hopefully, some lighting around the rear logo if I can fit it into the design.
-💻 Software
+ Software
 
 I'll mainly be using Debian 12 (Bookworm), but I'll also experiment with Debian 13 (Trixie) to see how newer packages, drivers and desktop environments work on the hardware.
 
